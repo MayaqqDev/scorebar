@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "scorebar",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Scorebar",
+  "description": "Disables Scoreboard and Bossbar because for some reason it decreases fps on mcci or something idk professionalism...",
   "authors": [
-    "Me!"
+    "Mayaqq"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Maximusbarcz/",
+    "sources": "https://github.com/Maximusbarcz/scorebar"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "LGPL-3",
+  "icon": "assets/scorebar/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "dev.mayaqq.scorebar.scorebar"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "scorebar.mixins.json"
   ],
 
   "depends": {
