@@ -7,7 +7,7 @@
 [![GitHub all releases](https://img.shields.io/github/downloads/Maximusbarcz/youve-got-a-skill-issue/total?style=for-the-badge)](https://github.com/Maximusbarcz/youve-got-a-skill-issue/releases)
 ## `Information`
 
-A client-side mod that disables scoreboard and bossbar because it somehow decreses fps on mcci or something idk...
+A client-side mod that disables scoreboard and bossbar because it somehow decreses fps on mcci (can be useful on other servers too). The mod does not do anything when you load up, only when you open the config screen and turn on the options you can use its functionality.
 
 ## `Community`
 
