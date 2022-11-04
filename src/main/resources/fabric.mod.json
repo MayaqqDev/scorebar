@@ -19,7 +19,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.mayaqq.scorebar.scorebar"
+      "dev.mayaqq.scorebar.Scorebar"
+    ],
+    "modmenu": [
+      "dev.mayaqq.scorebar.integrations.ModMenuIntegration"
     ]
   },
   "mixins": [
