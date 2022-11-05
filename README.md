@@ -15,6 +15,8 @@ If you have any questions or want to follow this project you can join the [Hue D
 
 [![Discord Server](https://discordapp.com/api/guilds/1003636176013492285/widget.png?style=banner2)](https://discord.gg/w7PpGax9Bq)
 
+**This project is licensed under [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html)**
+
 </center>
 </div>
 
