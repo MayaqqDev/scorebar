@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Scorebar",
-  "description": "Disables Scoreboard and Bossbar because for some reason it decreases fps on mcci or something idk professionalism...",
+  "description": "A client-side mod that disables scoreboard and bossbar because it somehow decreses fps on mcci (can be useful on other servers too).",
   "authors": [
     "Mayaqq"
   ],
