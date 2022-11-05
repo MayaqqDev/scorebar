@@ -13,7 +13,7 @@ A client-side mod that disables scoreboard and bossbar because it somehow decres
 
 If you have any questions or want to follow this project you can join the [Hue Discord Server](https://discord.gg/w7PpGax9Bq)!
 
-![Discord Server](https://discordapp.com/api/guilds/1003636176013492285/widget.png?style=banner2)
+[![Discord Server](https://discordapp.com/api/guilds/1003636176013492285/widget.png?style=banner2)](https://discord.gg/w7PpGax9Bq)
 
 </center>
 </div>
