@@ -16,7 +16,7 @@
   "license": "LGPL-3",
   "icon": "assets/scorebar/icon.png",
 
-  "environment": "*",
+  "environment": "client",
   "entrypoints": {
     "main": [
       "dev.mayaqq.scorebar.Scorebar"

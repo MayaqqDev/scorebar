@@ -1,13 +1,9 @@
 package dev.mayaqq.scorebar;
 
-import net.fabricmc.api.ModInitializer;
+import net.fabricmc.api.ClientModInitializer;
 
-public class Scorebar implements ModInitializer {
-	@Override
-	public void onInitialize() {
-		getConfig().load();
-	}
-	public static Config getConfig() {
-		return Config.INSTANCE;
+public class Scorebar implements ClientModInitializer {
+	public void onInitializeClient() {
+		Config.INSTANCE.load();
 	}
 }

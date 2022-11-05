@@ -2,11 +2,10 @@ package dev.mayaqq.scorebar.integrations;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
-import dev.mayaqq.scorebar.Scorebar;
+import dev.mayaqq.scorebar.Config;
 
 public class ModMenuIntegration implements ModMenuApi {
-    @Override
     public ConfigScreenFactory<?> getModConfigScreenFactory() {
-        return parent -> Scorebar.getConfig().makeScreen(parent);
+        return Config.INSTANCE::makeScreen;
     }
 }
